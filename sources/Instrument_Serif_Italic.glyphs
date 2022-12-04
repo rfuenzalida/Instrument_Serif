@@ -24200,7 +24200,7 @@ axesValues = (
 instanceInterpolations = {
 m002 = 1;
 };
-name = "Regular Italic";
+name = Italic;
 }
 );
 kerningLTR = {
